@@ -1,0 +1,22 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "sample discord bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zwnow/node-disc-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zwnow/node-disc-bot/issues"
+  },
+  "homepage": "https://github.com/Zwnow/node-disc-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
